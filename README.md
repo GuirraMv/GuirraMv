@@ -25,7 +25,7 @@ Here are some ideas to get you started:
  
 </div> 
 
-- <p>
-    <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" align="center" height="50" width="40">
-    <img src="https://icongr.am/devicon/react-original.svg?size=130&color=currentColor" aling="center" height="50" widht="50">
+- <p style="display: flex; alingItems="center" >
+    <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor"  height="50" width="40">
+    <img src="https://icongr.am/devicon/react-original.svg?size=130&color=currentColor" height="50" widht="50">
 </p>
