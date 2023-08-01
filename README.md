@@ -27,5 +27,7 @@ Here are some ideas to get you started:
 
 - <p>
     <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor" align="center" height="50" width="40">
+</p>
+<p>
     <img src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" aling="center" height="50" widht="50">
 </p>
