@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Me chamo Matheus Guirra Vieira 👋
-
+#### Atualmente sou jovem aprendiz, atuando e estudando desenvolvimento mobile com react-native.
 
 ##
 <div> 
