@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Me chamo Matheus Vieira 👋
-#### 💻 Atualmente sou jovem aprendiz, atuando como desenvolvedor mobile com react-native. Tenho interesse em desenvolvimento front-end e mobile, onde já estudei react e react-native
-#### 📚 Formado em Tec. em informática p/ Internet pelo IFSP, atualmente estudando Análise e desenvolvimento de sistemas na Universidade Anhembi Morumbi.
+## 💻 Atualmente sou jovem aprendiz, atuando como desenvolvedor mobile com react-native. Tenho interesse em desenvolvimento front-end e mobile, onde já estudei react e react-native
+## 📚 Formado em Tec. em informática p/ Internet pelo IFSP, atualmente estudando Análise e desenvolvimento de sistemas na Universidade Anhembi Morumbi.
 
 ##
 <div> 
