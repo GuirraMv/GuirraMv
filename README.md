@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Me chamo Matheus Guirra Vieira 👋
-#### Atualmente sou jovem aprendiz, atuando e estudando desenvolvimento mobile com react-native.
+### Me chamo Matheus Vieira 👋
+#### 💻 Atualmente sou jovem aprendiz, atuando como desenvolvedor mobile com react-native. Tenho interesse em desenvolvimento front-end e mobile, onde já estudei react e react-native
+#### 📚 Formado em Tec. em informática p/ Internet pelo IFSP, atualmente estudando Análise e desenvolvimento de sistemas na Universidade Anhembi Morumbi.
 
 ##
 <div> 
