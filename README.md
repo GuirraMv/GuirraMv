@@ -1,33 +1,23 @@
-## Opa! Tudo bom? 👋
+## Olá! Me chamo Matheus Guirra Vieira 👋
 
-<!--
-**GuirraMv/GuirraMv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Me chamo Matheus Vieira 👋
-## 💻 Atualmente sou jovem aprendiz, atuando como desenvolvedor mobile com react-native. Tenho interesse em desenvolvimento front-end e mobile, onde já estudei react e react-native
-## 📚 Formado em Tec. em informática p/ Internet pelo IFSP, atualmente estudando Análise e desenvolvimento de sistemas na Universidade Anhembi Morumbi.
+- 🔭 Hoje trabalho com desenvolvimento mobile utilizando React-native
+- 🌱 Estou estudando Javascript, Typescript e React-native
+- 📚 Fiz curso técnico de Infomática para Internet no IFSP
+- 📖 Estou cursando Análise e Desenvolvimento de Sistemas na UNINTER
 
 ##
-<div> 
-  <a href="https://github.com/GuirraMv">
+<div style="display: inline_block">
+<img style="height: 5vh" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img style="height: 5vh" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img style="height: 5vh" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+</div>
+<div>
+  <a href="https://github.com/GuirraMv" target="_blanck">
   <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=GuirraMv&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="120cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuirraMv&_icons=true&theme=tokyonight&layout=compact"/> 
- 
+  <img height="120cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuirraMv&_icons=true&theme=tokyonight&layout=compact"/>
+  </a>
 </div> 
 
- <p style="display: flex; alingItems="center" >
-    <img src="https://icongr.am/devicon/javascript-original.svg?size=128&color=currentColor"  height="50" width="40">
-    <img src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor"  height="50" width="40">
-    <img src="https://icongr.am/devicon/react-original.svg?size=130&color=currentColor" height="50" widht="40">
-</p>
+### Meus contatos
+<div>
+ <a href="https://www.linkedin.com/in/matheus-guirra-713546242?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href = "mailto:matheusguirravieira15@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div>
