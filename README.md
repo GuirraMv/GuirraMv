@@ -7,8 +7,9 @@
 
 ##
 <div style="display: inline_block">
-<img style="height: 5vh" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img style="height: 5vh" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img style="height: 5vh" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img  src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </div>
+
 <div>
   <a href="https://github.com/GuirraMv" target="_blanck">
   <img height="150cm" src="https://github-readme-stats.vercel.app/api?username=GuirraMv&show_icons=true&theme=tokyonight&count_private=true"/>
