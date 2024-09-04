@@ -24,6 +24,6 @@
 
 <h2 align="center">Meus contatos</h2>
 <p align="center"> 
- <a href="https://www.linkedin.com/in/matheus-guirra-713546242?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+ <a href="https://www.linkedin.com/in/matheus-guirra-713546242" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href = "mailto:matheusguirravieira15@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
